@@ -1,0 +1,22 @@
+body, html{
+    background-color: #F3F9D2;
+    
+    font-family: 'Didact Gothic', sans-serif;
+    
+    height: 100%;
+    display: grid;
+    }
+    
+    .main{
+        margin: auto;
+        height: 50vh;
+        width: 50vh;
+    
+    }
+    
+    .name{
+        color: #ffffff;
+        font-size: 3em;
+        text-align: center
+    
+    }
