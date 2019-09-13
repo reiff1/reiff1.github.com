@@ -43,7 +43,6 @@ body, html{
     grid-template-columns:1895px;
     grid-template-rows: 527px 1527px 597px 597px 1527px 679px 597px 597px 597px 1527px 597px;
     grid-row-gap: 24px;
-    background-color:greenyellow;
     margin-left: 406px;
 }
 .image{
@@ -61,4 +60,37 @@ body, html{
 }
 .story3{
     background-color: rgb(123, 36, 100);
+}
+.article1{
+    background-color:rgb(123, 36, 100);
+}
+.article2{
+    background-color:rgb(123, 36, 100);
+}
+.article3{
+    background-color:rgb(123, 36, 100);
+}
+.article4{
+    background-color:rgb(123, 36, 100);
+}
+.article5{
+    background-color:rgb(123, 36, 100);
+}
+.article6{
+    background-color:rgb(123, 36, 100);
+}
+.article7{
+    background-color:rgb(123, 36, 100);
+}
+.article8{
+    background-color:rgb(123, 36, 100);
+}
+.article9{
+    background-color:rgb(123, 36, 100);
+}
+.article10{
+    background-color:rgb(123, 36, 100);
+}
+.article11{
+    background-color:rgb(123, 36, 100);
 }
