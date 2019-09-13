@@ -1,0 +1,20 @@
+body, html{
+    background-color: #1B90BA;
+    font-family: 'Didact Gothic', sans-serif;
+    height: 100%;
+    display: grid;
+}
+    .menu{
+        background-color: orange;
+        height: 2px;
+        width:300px;
+    
+    
+    }
+    
+    .name{
+        color: #ffffff;
+        font-size: 3em;
+        text-align: center
+    
+    }
