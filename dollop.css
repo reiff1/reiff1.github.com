@@ -8,3 +8,17 @@ body, html{
     width: 100%;
     background-color: rgb(115, 133, 193);
 }
+.grid{
+    height: 3052px;
+    width: 70%;
+    display: grid;
+    grid-template-columns: 375px 1101px;
+    grid-template-rows: 343px 343px 424px 720px 377px 377px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px 366px;
+    grid-row-gap: 24px;
+    grid-gap:24px;
+    margin-left: 350px;
+    margin-top: 48px;
+}
+.episodes{
+    background-color: pink;
+}
