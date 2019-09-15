@@ -13,3 +13,34 @@ body, html{
     background-color: rgb(107, 89, 208);
 
 }
+.center{
+    height: 126px;
+    width: 100%;
+    background-color:rgb(173, 128, 211);
+}
+.bottom{
+    height: 179px;
+    width: 100%;
+    background-color: rgb(51, 0, 83);
+}
+.headimage{
+    height: 502px;
+    width: 1955px;
+    margin-top: 24px;
+    margin-left: 705px;
+    background-color: rgb(147, 138, 176);
+}
+.left{
+    height: auto;
+    width: 2283px;
+    display: grid;
+    margin-top: 48px;
+    grid-template-columns: 1520px 712px;
+    grid-template-rows: 895px 895px 231px 523px 523px 316px 316px 418px 418px 709px 709px 520px 520px 280px 280px 323px;
+    grid-row-gap: 24px;
+    grid-gap: 24px;
+    margin-left: 546px;
+}
+.article{
+    background-color: rgb(147, 138, 176);
+}
