@@ -22,26 +22,45 @@ body, html{
     display: grid;
     margin-top: 48px;
     grid-template-columns:1627px 831px;
-    grid-template-rows: 775px 775px;
+    grid-template-rows: 775px;
     grid-gap: 24px;
     margin-left: 386px;
-    background-color: purple;
 }
 .heading{
     height: 121px;
     width: 816px;
     margin-top:443px;
     margin-left: 386px;
-    background-color: rgb(227, 103, 103);
+    background-color: rgb(129, 44, 119);
 }
 .main{
-    height: auto;
+    height: 2455px;
     width: 70%;
     display: grid;
     margin-top: 24px;
     grid-template-columns:808px 808px 808px;
-    grid-template-rows:1035px 1035px 1035px 909px 909px 909px 835px 835px 836px;
+    grid-template-rows:1035px 1035px 1035px 909px 909px 909px 835px 835px 836px 835px;
     grid-gap: 24px;
-    margin-left 386px;
+    margin-left: 386px;
+}
+.box{
+    background-color:  rgb(227, 103, 103);
+}
+.article{
     background-color: rgb(227, 103, 103);
+}
+.footer{
+    height: 924px;
+    width: 3360px;
+}
+.footertop{
+    height: 710px;
+    width: 100%;
+    background-color: rgb(238, 141, 124);
+    margin-top: 900px;
+}
+.footerbottom{
+    height: 214px;
+    width: 100%;
+    background-color: rgb( 27, 30, 95);
 }
