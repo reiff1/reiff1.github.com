@@ -1,0 +1,87 @@
+body, html{
+    padding: 0;
+    margin: 0;
+    display: grid;
+}
+.header{
+    height: 204px;
+    width: 100%;
+    position: fixed;
+    background-color:   rgb(10, 175, 204);
+}
+.title{
+    height: 98px;
+    width: 74%;
+    margin-top: 221px;
+    margin-left: 478px;
+    background-color:  rgb(76, 215, 219);
+}
+.left{
+    height: 1350px;
+    width: 596px;
+    background-color: rgb(36, 130, 159);
+    margin-top: 122px;
+
+}
+.item{
+    height: 1318px;
+    width: 53%;
+    display: grid;
+    margin-top: 24px;
+    grid-template-columns:  556px 556px 556px;
+    grid-template-rows: 647px 647px;
+    grid-row-gap: 24px;
+    grid-gap: 24px;
+    margin-left: 1091px;
+
+}
+
+.header2{
+    height: 98px;
+    width: 55%;
+    background-color:  rgb(76, 215, 219);
+    margin-left: 1091px;
+    margin-top: 24px;
+}
+.steak{
+    height: 1992px;
+    width: 50%;
+    display: grid;
+    margin-top: 24px;
+    grid-template-columns: 556px 556px 556px;
+    grid-template-rows: 647px 647px 647px;
+    grid-row-gap: 24px;
+    grid-gap: 24px;
+    margin-left: 1091px;
+
+}
+.header3{
+    height: 98px;
+    width: 55%;
+    background-color: rgb(76, 215, 219);
+    margin-left: 1091px;
+    margin-top: 24px;
+}
+
+.apps{
+    height: 2331px;
+    width: 5%;
+    margin-top: 24px;
+    display: grid;
+    grid-template-columns: 556px 556px 556px;
+    grid-template-rows: 647px 647px 647px 647px 657px 647px;
+    grid-gap: 24px;
+    margin-left: 1091px;
+}
+
+.dish{
+    background-color: rgb(116, 255, 228);
+}
+
+.food{
+    background-color:  rgb(116, 255, 228);
+}
+
+.app{
+    background-color:  rgb(116, 255, 228);
+}
